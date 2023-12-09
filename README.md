@@ -2,6 +2,9 @@
 
 <a href="https://keen-axolotl-093da6.netlify.app">Live Link</a>
 
+<h1>Server Site Github Link</h1>
+<a href="https://github.com/piasahmed1/brand-management-server">Server Site</a>
+
 <h1>Technology Used:</h1>
 <p>Html</p>
 <p>Css</p>
